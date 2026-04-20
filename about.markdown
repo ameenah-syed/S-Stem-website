@@ -4,4 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Coming really soon.
+Coming _whenever_.
+
